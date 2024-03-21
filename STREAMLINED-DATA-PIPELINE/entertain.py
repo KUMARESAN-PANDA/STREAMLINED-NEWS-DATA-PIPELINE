@@ -23,7 +23,7 @@ def app():
             return []
 
     # API key for News API (replace 'your_api_key' with your actual API key)
-    api_key = st.secret["api_key"]
+    api_key = '19cb1b7415df4988877778789528fdda'
 
     # Fetch business news data
     business_articles = fetch_business_news(api_key)
