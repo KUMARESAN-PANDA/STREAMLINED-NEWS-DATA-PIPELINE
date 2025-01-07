@@ -19,6 +19,6 @@ def app():
     # Social Media Icons Section
     st.header("Connect with Us")
     st.write("Follow us on social media for updates:")
-    st.markdown("[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumaresan-dhanaraj-036b5)")
+    st.markdown("[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumaresan-dhanaraj-036b5333a/)")
     st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KUMARESAN-PANDA)")
     st.markdown("[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_smart_panda/?igsh=OGxnMzJseTRsb3hw)")
